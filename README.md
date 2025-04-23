@@ -36,8 +36,8 @@ Acesse: http://localhost:8081
 ## Endpoints disponíveis
 
 Metodo	Endpoint	Descricao
-GET	/projetos	Lista todos os projetos
-POST	/projetos	Cria um novo projeto
-PUT	/projetos/{id}	Atualiza um projeto existente
-DELETE	/projetos/{id}	Deleta um projeto
+- GET	/projetos	Lista todos os projetos
+- POST	/projetos	Cria um novo projeto
+- PUT	/projetos/{id}	Atualiza um projeto existente
+- DELETE	/projetos/{id}	Deleta um projeto
 
